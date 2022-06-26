@@ -1,2 +1,2 @@
-# first_python_bot
-a simple python bot
+# loan_calculator
+loan_calculator with diff and annuity payments
